@@ -66,9 +66,9 @@ const Projects = () => {
 
             <p className="styled">
               I started web development in early 2020 and by now I have{" "}
-              {new Date().getFullYear() - 2021}
-              years of professional experience in developing Full-Stack Web apps
-              and cross-platform Mobile and Desktop apps as Software Engineer
+              {new Date().getFullYear() - 2021} years of professional experience
+              in developing Full-Stack Web apps and cross-platform Mobile and
+              Desktop apps
             </p>
           </div>
         </div>
