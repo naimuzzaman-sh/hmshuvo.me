@@ -65,7 +65,8 @@ const Projects = () => {
             <h1 className="gradient">My work experiences!</h1>
 
             <p className="styled">
-              I started web development in early 2020 and by now I have over 2
+              I started web development in early 2020 and by now I have{" "}
+              {new Date().getFullYear() - 2021}
               years of professional experience in developing Full-Stack Web apps
               and cross-platform Mobile and Desktop apps as Software Engineer
             </p>
@@ -76,15 +77,15 @@ const Projects = () => {
           <div className="wrapper">
             <div className="item">
               <div className="item_title">
-                <a href="#" target="_blank">
+                <a href="https://dynt.ai" target="_blank">
                   <h1 className="right">Dynt</h1>
                 </a>
                 <h2 className="text-2xl">Software Engineer</h2>
               </div>
               <div className="item_details">
                 <p>
-                  Leading the development of Dynt s open banking integration and
-                  finance and expense management solutionsd
+                  Leading the development of Dynt's open banking integration and
+                  finance and expense management solution
                 </p>
               </div>
             </div>

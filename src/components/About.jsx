@@ -21,9 +21,9 @@ const About = () => {
         <div className="title">
           <h3 className="gradient">Contact Me</h3>
           <p className="styled">
-            I am open to full-time Full-Stack Software Engineer role where I
-            will be able to put my skills in practice and acquire more skills
-            along the way!
+            I am always open to new opportunities and collaborations. If you
+            have any questions or just want to say hi, feel free to reach out to
+            me. I will try to get back to you as soon as possible.
           </p>
         </div>
 

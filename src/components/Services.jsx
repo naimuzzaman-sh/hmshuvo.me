@@ -33,9 +33,9 @@ const serviceDetails = [
   },
   {
     image: responsive,
-    header: "Responsive on all devices",
+    header: "Cross platform mobile and desktop app",
     details:
-      "All of my websites are designed to be equally functioning and accessible across all devices. So whether your clients are going to be using you sites from desktop or mobile devices, rest assured that the look and feel of your site will always remain the same.",
+      "With the rise of mobile and desktop apps, it has become essential to develop app that can run on multiple platform. By using the latest technology like React Native, Tauri and more, I will make sure that your app can run on both iOS, Android, desktop platforms without any performance degradation.",
   },
 ];
 
