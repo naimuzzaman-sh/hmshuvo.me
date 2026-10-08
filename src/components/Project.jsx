@@ -90,7 +90,7 @@ const Projects = () => {
               </div>
             </div>
             <div className="timeline left">
-              <h6>June 2023 - Present</h6>
+              <h6></h6>
             </div>
           </div>
           <div className="wrapper">
@@ -111,7 +111,7 @@ const Projects = () => {
               </div>
             </div>
             <div className="timeline right">
-              <h6>April 2022 - May 2023</h6>
+              <h6></h6>
             </div>
           </div>
           <div className="wrapper">
@@ -132,13 +132,13 @@ const Projects = () => {
               </div>
             </div>
             <div className="timeline left">
-              <h6>Jan 2022 - Present</h6>
+              <h6></h6>
             </div>
           </div>
 
           <div className="wrapper">
             <div className="timeline right">
-              <h6>July 2021 - March 2022</h6>
+              <h6></h6>
             </div>
             <div className="item reverse">
               <div className="item_title">
